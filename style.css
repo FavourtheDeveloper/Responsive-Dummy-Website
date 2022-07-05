@@ -1,0 +1,169 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	font-family: 'helvetica', sans-serif;
+	overflow-x: hidden;
+}
+
+#showcase{
+
+	background-color: #DF0031;
+	color: white;
+	padding: 90px 0;
+
+}
+
+#showcase .row .text{
+
+	padding-top: 70px;
+}
+
+#showcase .row h2{
+
+	font-size: 35px;
+	padding-bottom: 10px;
+}
+
+#showcase .row p{
+
+	color: #FDA0A3;
+	line-height: 30px;
+}
+
+
+
+#about h2{
+	padding: 70px 0;
+	font-size: 45px;
+
+}
+
+#about .row h6{
+
+	font-weight: bold;
+	font-size: 18px;
+}
+
+
+#about .row p{
+
+	color: #989898;
+	font-size: 15px;
+}
+
+#about .row span{
+
+	font-weight: bold;
+	color: black;
+	font-size: 17px;
+}
+
+#about .row button{
+
+	margin-bottom: 50px;
+}
+
+
+#about .row img{
+
+	border-radius: 50%;
+	padding-bottom: 20px;
+}
+
+
+#services{
+
+	margin-top: 50px;
+	background-color: #EFEFEF;
+	padding-bottom: 70px;
+
+}
+
+
+#services h2{
+
+	padding: 60px;
+
+}
+
+#services .row i{
+
+	color: #DF0132;
+
+
+}
+
+#portfolio{
+	margin-top: 80px;
+}
+
+#portfolio .container .port img{
+	margin-bottom: 30px;
+	
+
+}
+
+#portfolio h2{
+	padding-bottom: 50px;
+
+}
+
+#clients h2{
+
+	margin-top: 130px;
+	margin-bottom: 60px;
+	letter-spacing: 5px;
+}
+
+#clients .client-col{
+
+	background-color: #DF0031;
+	padding: 50px;
+}
+
+#team h2{
+
+	margin-top: 130px;
+	margin-bottom: 20px;
+	letter-spacing: 5px;
+}
+
+#team #letter{
+
+	letter-spacing: 20px;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+
+#contact{
+
+	background-color: #232323;
+	color: white;
+	margin-top: 100px;
+}
+
+#contact h2{
+
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+
+#contact .row h4{
+
+	color: #686868;
+}
+
+#footer{
+	margin-top: 80px;
+	padding-bottom: 30px;
+}
+
+#footer span{
+	
+	font-style: italic;
+	font-weight: bold;
+	letter-spacing: 3px;
+	color: yellow;
+}
+
